@@ -8,3 +8,9 @@ https://gitee.com/jia_to_hui/read-30-preferred-book-source/raw/master/%E9%98%85%
 
 搜索源
 https://gitee.com/ch4nge/readbook/raw/master/booksource_qw
+
+优秀源
+https://gitee.com/ch4nge/readbook/raw/master/booksource11
+
+源作者仓库
+https://gitee.com/ch4nge/readbook
