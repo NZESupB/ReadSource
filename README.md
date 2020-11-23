@@ -14,6 +14,9 @@ https://gitee.com/ch4nge/readbook/raw/master/booksource_lhbs
 搜索源
 https://gitee.com/ch4nge/readbook/raw/master/booksource_qw
 
+听书源
+https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
+
 优秀源
 https://gitee.com/ch4nge/readbook/raw/master/booksource11
 
