@@ -23,5 +23,8 @@ https://gitee.com/ch4nge/readbook/raw/master/booksource11
 正版源(搜书&首页图)
 https://gitee.com/ch4nge/readbook/raw/master/booksources_zb
 
+修复源
+https://gitee.com/ch4nge/readbook/raw/master/booksources_xf
+
 源作者仓库
 https://gitee.com/ch4nge/readbook
