@@ -26,5 +26,8 @@ https://gitee.com/ch4nge/readbook/raw/master/booksources_zb
 修复源
 https://gitee.com/ch4nge/readbook/raw/master/booksources_xf
 
+优化源
+https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json
+
 源作者仓库
 https://gitee.com/ch4nge/readbook
