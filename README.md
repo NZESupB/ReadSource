@@ -20,5 +20,8 @@ https://gitee.com/vpq/codes/9ji1mged7v54brhspz3of71/raw?blob_name=sy.json
 听书源
 https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
 
+净化规则
+https://gitee.com/ch4nge/readbook/raw/master/JHGZ
+
 源作者仓库
 https://gitee.com/ch4nge/readbook
