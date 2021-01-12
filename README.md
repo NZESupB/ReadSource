@@ -28,6 +28,11 @@ https://gitee.com/vpq/codes/9ji1mged7v54brhspz3of71/raw?blob_name=sy.json
 
 听书源
 https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
+微软晓晓引擎:使用方法:
+https://mp.weixin.qq.com/s/5qR69rIup8GGQ7yvVcoh0A
+下载地址:
+https://xs11.lanzous.com/iWI5Wkam4bc
+
 
 净化规则
 https://gitee.com/ch4nge/readbook/raw/master/JHGZ
