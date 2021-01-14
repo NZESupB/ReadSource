@@ -26,6 +26,9 @@ https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Na
 5.一程大佬的优质书源合集：
 https://gitee.com/vpq/codes/9ji1mged7v54brhspz3of71/raw?blob_name=sy.json
 
+6.不世玄奇大佬整合的失效书源修复合集，针对芜恙、狼火霸世、关耳等数个大佬的精选书源 失效 的书源进行修复更新
+https://gitee.com/ch4nge/readbook/raw/master/booksources_sx
+
 听书源
 https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
 微软晓晓引擎:使用方法:
