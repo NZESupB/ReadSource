@@ -10,9 +10,11 @@ http://yck.mumuceo.com/d/CXwCA
     https://mp.weixin.qq.com/s/3Sb1e5weIs2N802yW84Hbg
 
 1.南笙星辰大佬的书源合集：选一个导入即可
+https://gitee.com/ch4nge/readbook/raw/master/booksource40
 https://gitee.com/ch4nge/readbook/raw/master/booksource_50
 https://gitee.com/ch4nge/readbook/raw/master/booksource175
 https://gitee.com/ch4nge/readbook/raw/master/booksource_177
+https://gitee.com/ch4nge/readbook/raw/master/booksource200
 
 2.优质书源
 https://gitee.com/xjlxx/yuedu/raw/master/%E5%8D%81%E6%BA%90%20%E4%BC%98%E8%B4%A8.json
@@ -28,6 +30,9 @@ https://gitee.com/vpq/codes/9ji1mged7v54brhspz3of71/raw?blob_name=sy.json
 
 6.不世玄奇大佬整合的失效书源修复合集，针对芜恙、狼火霸世、关耳等数个大佬的精选书源 失效 的书源进行修复更新
 https://gitee.com/ch4nge/readbook/raw/master/booksources_sx
+
+7.一介书生大佬
+https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
 
 听书源
 https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
