@@ -34,6 +34,9 @@ https://gitee.com/ch4nge/readbook/raw/master/booksources_sx
 7.一介书生大佬
 https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
 
+8.订阅源
+https://gitee.com/ch4nge/rss/raw/master/rss_yc
+
 听书源
 https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
 微软晓晓引擎:使用方法:
