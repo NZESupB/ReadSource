@@ -18,6 +18,10 @@ https://gitee.com/ch4nge/readbook/raw/master/booksource200
 
 2.优质书源
 https://gitee.com/xjlxx/yuedu/raw/master/%E5%8D%81%E6%BA%90%20%E4%BC%98%E8%B4%A8.json
+风扬兮
+http://shuyuan.miaogongzi.site/shuyuan/1612930793.txt
+yellyoo飞卢+书客
+https://gitee.com/ch4nge/readbook/raw/master/booksource_fl
 
 3.不世玄奇大佬的搜索引擎书源合集：
 https://gitee.com/no-mystery/book-source/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json
@@ -34,7 +38,10 @@ https://gitee.com/ch4nge/readbook/raw/master/booksources_sx
 7.一介书生大佬
 https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
 
-8.订阅源
+8.乃星大佬提供的女频书源
+https://gitee.com/amaris-me/its-a-star/raw/booksource/%E4%B9%A6%E6%BA%90%E5%88%86%E4%BA%AB/%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86
+
+9.订阅源
 https://gitee.com/ch4nge/rss/raw/master/rss_yc
 
 听书源
