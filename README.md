@@ -48,6 +48,8 @@ https://gitee.com/ch4nge/rss/raw/master/rss_yc
 
 10.漫画源
 https://gitee.com/haxc981/booksource/raw/master/%E9%98%85%E8%AF%BB3.0%E6%BC%AB%E7%94%BB%E6%BA%90.txt
+    漫画教程
+    https://mp.weixin.qq.com/s/htJ3AsRYqFW_ssd4tsmvFQ
 
 11.有声源
 https://gitee.com/z507525872/book-source/raw/master/exportBookSource.json
@@ -58,7 +60,6 @@ https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
 https://mp.weixin.qq.com/s/5qR69rIup8GGQ7yvVcoh0A
 下载地址:
 https://xs11.lanzous.com/iWI5Wkam4bc
-
 
 净化规则
 https://gitee.com/ch4nge/readbook/raw/master/JHGZ
