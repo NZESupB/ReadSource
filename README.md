@@ -7,9 +7,9 @@ https://mp.weixin.qq.com/s/yIoPOAPXmUT7PSXjDrZoIw
 
 订阅源(非书源)
 http://yck.mumuceo.com/d/CXwCA
-    
     使用方式(自行修改订阅)
     https://mp.weixin.qq.com/s/3Sb1e5weIs2N802yW84Hbg
+
 
 1.南笙星辰大佬的书源合集：选一个导入即可
 https://gitee.com/ch4nge/readbook/raw/master/booksource40
@@ -45,6 +45,12 @@ https://gitee.com/amaris-me/its-a-star/raw/booksource/%E4%B9%A6%E6%BA%90%E5%88%8
 
 9.订阅源
 https://gitee.com/ch4nge/rss/raw/master/rss_yc
+
+10.漫画源
+https://gitee.com/haxc981/booksource/raw/master/%E9%98%85%E8%AF%BB3.0%E6%BC%AB%E7%94%BB%E6%BA%90.txt
+
+11.有声源
+https://gitee.com/z507525872/book-source/raw/master/exportBookSource.json
 
 听书源
 https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
