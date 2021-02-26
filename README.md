@@ -27,6 +27,8 @@ https://gitee.com/ch4nge/readbook/raw/master/booksource_fl
 
 3.不世玄奇大佬的搜索引擎书源合集：
 https://bushixuanqi.oss-cn-chengdu.aliyuncs.com/%E6%BA%90.json
+特殊使用方式:
+https://mp.weixin.qq.com/s/Q_BEtJjlmhFq74VjS-yi1A
 
 4.Namofree大佬的优质书源合集：
 https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json
