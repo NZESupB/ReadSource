@@ -65,6 +65,7 @@ https://xs11.lanzous.com/iWI5Wkam4bc
 
 净化规则
 https://gitee.com/ch4nge/readbook/raw/master/JHGZ
+https://github.nxnow.xyz/https://raw.githubusercontent.com/NZESupB/ReadSource/master/clearLite.txt
 
 源作者仓库
 https://gitee.com/ch4nge/readbook
