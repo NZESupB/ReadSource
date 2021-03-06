@@ -64,7 +64,7 @@ https://gitee.com/z507525872/book-source/raw/master/exportBookSource.json
 听书源
 https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
 
-微软晓晓引擎:使用方法:
+微软晓晓引擎:使用方法:(被微软大刀部砍了.ywwy)
 https://mp.weixin.qq.com/s/5qR69rIup8GGQ7yvVcoh0A
 
 下载地址:
