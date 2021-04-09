@@ -80,7 +80,7 @@ https://gitee.com/ch4nge/readbook/raw/master/booksources_sx
 
 
 ### 漫画源
-http://shuyuan.miaogongzi.net/shuyuan/1617076136.json
+haxc981:  http://shuyuan.miaogongzi.net/shuyuan/1617076136.json
 
 #### 漫画教程
 
