@@ -13,7 +13,13 @@
 > http://yck.mumuceo.com/d/CXwCA   
 >
 > https://gitee.com/ch4nge/rss/raw/master/rss_yc
->
+> 
+> @Thomas喲大佬的精选订阅源
+> http://shuyuan.miaogongzi.net/shuyuan/1619456819.json
+> 
+> R18版(慎用)
+> http://shuyuan.miaogongzi.net/shuyuan/1618363759.json
+> 
 > 订阅源使用方式(可自行修改/添加订阅)
 > https://mp.weixin.qq.com/s/3Sb1e5weIs2N802yW84Hbg
 
