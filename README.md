@@ -11,8 +11,6 @@
 
 > 订阅源(非书源)
 > http://yck.mumuceo.com/d/CXwCA   
->
-> https://gitee.com/ch4nge/rss/raw/master/rss_yc
 > 
 > @Thomas喲大佬的精选订阅源
 > http://shuyuan.miaogongzi.net/shuyuan/1619456819.json
