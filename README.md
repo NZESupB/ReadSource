@@ -91,12 +91,13 @@ https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
 ​	下载地址:
 ​	https://xs11.lanzous.com/iWI5Wkam4bc
 
+
+#### 	TTS朗读引擎
+​	http://shuyuan.miaogongzi.net/shuyuan/1620296316.txt
+​	
+​	http://mp.weixin.qq.com/s?__biz=MzIzMTc0NzE1MQ==&mid=2247488724&idx=1&sn=9b3deb2cf3386bf38f36267b9354e610&chksm=e89e2ff4dfe9a6e2cad24afcf56139286901ce063e542e799adc76dcbed19ebf5489142a17b4&scene=21#wechat_redirect
+
 ## 净化规则
 
 https://gitee.com/ch4nge/readbook/raw/master/JHGZ
 https://github.nxnow.xyz/https://raw.githubusercontent.com/NZESupB/ReadSource/master/clearLite.txt
-
-
-
-源作者仓库
-https://gitee.com/ch4nge/readbook
