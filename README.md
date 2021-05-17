@@ -14,6 +14,9 @@
 > 
 > @Thomas喲大佬的精选订阅源
 > http://shuyuan.miaogongzi.net/shuyuan/1619456819.json
+>
+>一程订阅源合集
+>http://shuyuan.miaogongzi.net/shuyuan/1621062020.json 
 > 
 > R18版(慎用)
 > http://shuyuan.miaogongzi.net/shuyuan/1618363759.json
@@ -33,13 +36,17 @@ http://shuyuan.miaogongzi.site/shuyuan/1615367522.txt
 
 http://shuyuan.miaogongzi.net/shuyuan/1619942185.json
 
-### 乃星大佬的女频书源：
-
+### 乃星女频：
 http://shuyuan.miaogongzi.site/shuyuan/1614660488.json
 
-### 一程大佬的男频书源：
+### 关耳女频
+https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
+### 一程男频书源：
 http://shuyuan.miaogongzi.site/shuyuan/1613605637.json
+
+### 总书源合集
+http://shuyuan.miaogongzi.net/shuyuan/1621144934.json
 
 ### 不世玄奇大佬的书源合集：
 ### 1.通用书源和搜索引擎书源
@@ -68,12 +75,11 @@ http://shuyuan.miaogongzi.net/shuyuan/1619911647.txt
 
 
 ### 漫画源
-haxc981:  http://shuyuan.miaogongzi.net/shuyuan/1617076136.json
+haxc: http://shuyuan.miaogongzi.site/shuyuan/1620870390.json
 
 #### 漫画教程
 
 https://mp.weixin.qq.com/s/htJ3AsRYqFW_ssd4tsmvFQ
-
 
 
 ### 有声源
