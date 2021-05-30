@@ -83,8 +83,8 @@ https://mp.weixin.qq.com/s/htJ3AsRYqFW_ssd4tsmvFQ
 
 
 ### 有声源
-
-https://gitee.com/z507525872/book-source/raw/master/exportBookSource.json
+http://shuyuan.miaogongzi.net/shuyuan/1621526832.json 
+https://gitee.com/z507525872/book-source/raw/master/32yousheng.json
 
 ### 听书源
 
