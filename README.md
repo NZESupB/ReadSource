@@ -28,67 +28,49 @@
 
 ## 书源合集:
 
-### namofree大佬的男频书源：
+1.namofree大佬的书源：（通用，精简，比较适合大多数人）
 
-http://shuyuan.miaogongzi.site/shuyuan/1615367522.txt
+https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 
-### namofree通用书源：
+2.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
 
-http://shuyuan.miaogongzi.net/shuyuan/1619942185.json
+https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json
 
-### 乃星女频：
-http://shuyuan.miaogongzi.site/shuyuan/1614660488.json
+（使用教程）http://mp.weixin.qq.com/s?__biz=MzIzMTc0NzE1MQ==&mid=2247488514&idx=1&sn=9f2b745385e4824576a12f7d14079c26&chksm=e89e2f22dfe9a634a2588605ebfca7cbe847d5d4d1e70d8ba6970605c96af7a64f28c72fbf3c&scene=21#wechat_redirect
 
-### 关耳女频
+
+3.破冰大佬的听书源合集：（前几天更新过的可不更新）
+
+https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/yshj.json
+
+4.haxc大佬的漫画源合集：（5月底更新，如果上个月更新了，可不用更新）
+
+https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/Book3.0Source.json
+
+5.乃星大佬的女频书源合集：（5月底更新，如果上个月更新了，可不用更新）
+
+http://shuyuan.miaogongzi.net/shuyuan/1623355431.json
+
+6.关耳大佬的女频书源合集：（5月中更新，如果更新了，可不用更新）
+
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
-### 一程男频书源：
-http://shuyuan.miaogongzi.site/shuyuan/1613605637.json
+7.天域战歌大佬的2.0书源合集：（5月底更新，如果上个月更新了，可不用更新）
 
-### 总书源合集
-http://shuyuan.miaogongzi.net/shuyuan/1621144934.json
-
-### 不世玄奇大佬的书源合集：
-### 1.通用书源和搜索引擎书源
-
-http://no-mystery.gitee.io/shuyuan/%E5%85%A8%E7%BD%91%E9%80%9A%E7%94%A8.json
-
-#### 	搜索引擎源特殊使用方式:
-
-​	 https://mp.weixin.qq.com/s/Q_BEtJjlmhFq74VjS-yi1A
-
-### 2.精校书源
-
-http://no-mystery.gitee.io/shuyuan/%E7%B2%BE%E6%A0%A1%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json
-
-### 破冰6大佬的听书书源合集：
-
-https://gitee.com/z507525872/book-source/raw/master/yousheng.json
-
-### 女频书源合集：
-
-http://shuyuan.miaogongzi.net/shuyuan/1619967369.json
-
-### 天域战歌书源合集：
-
-http://shuyuan.miaogongzi.net/shuyuan/1619911647.txt
+https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/2.0shuyuan.json
 
 
-### 漫画源
-haxc: http://shuyuan.miaogongzi.site/shuyuan/1620870390.json
+1.破冰大佬的700个收藏书源合集：（通用，但书源相对较多，选择比较多）
 
-#### 漫画教程
+https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json
 
-https://mp.weixin.qq.com/s/htJ3AsRYqFW_ssd4tsmvFQ
+2.千仞云大佬的书源合集：（使用说明见下图）
+
+http://shuyuan.miaogongzi.net/shuyuan/1624832786.json
+
+![image](https://user-images.githubusercontent.com/26704509/124208211-ab53e700-db19-11eb-8d86-4a808883e22e.png)
 
 
-### 有声源
-http://shuyuan.miaogongzi.net/shuyuan/1621526832.json 
-https://gitee.com/z507525872/book-source/raw/master/32yousheng.json
-
-### 听书源
-
-https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
 
 #### 	微软晓晓引擎:使用方法:(被微软大刀部砍了.ywwy)
 
