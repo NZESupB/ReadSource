@@ -15,7 +15,7 @@
 > @Thomas喲大佬的精选订阅源
 > http://shuyuan.miaogongzi.net/shuyuan/1619456819.json
 >
->一程订阅源合集
+>一程订阅源合集(2021.8)
 > http://shuyuan.miaogongzi.net/shuyuan/1627682222.json
 > 
 > R18版(慎用)
@@ -38,6 +38,8 @@ https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%
 
 （使用教程）http://mp.weixin.qq.com/s?__biz=MzIzMTc0NzE1MQ==&mid=2247488514&idx=1&sn=9f2b745385e4824576a12f7d14079c26&chksm=e89e2f22dfe9a634a2588605ebfca7cbe847d5d4d1e70d8ba6970605c96af7a64f28c72fbf3c&scene=21#wechat_redirect
 
+破冰 - 笔趣阁汇总书源(2021.7.19)
+https://gh.nxnow.online/https://raw.githubusercontent.com/NZESupB/ReadSource/master/%E7%AC%94%E8%B6%A3%E9%98%81%E6%B1%87%E6%80%BB.json
 
 3.破冰大佬的听书源合集：（前几天更新过的可不更新）
 
