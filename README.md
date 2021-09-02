@@ -28,36 +28,41 @@
 
 ## 书源合集:
 
-1.namofree大佬的书源：（通用，精简，比较适合大多数人）
+1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2021.9.1)
 
 https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 
-2.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
+2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2021.9.1)
+
+https://shuyuan.miaogongzi.net/shuyuan/1630342495.json
+
+3.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
 
 https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json
 
 （使用教程）http://mp.weixin.qq.com/s?__biz=MzIzMTc0NzE1MQ==&mid=2247488514&idx=1&sn=9f2b745385e4824576a12f7d14079c26&chksm=e89e2f22dfe9a634a2588605ebfca7cbe847d5d4d1e70d8ba6970605c96af7a64f28c72fbf3c&scene=21#wechat_redirect
 
-破冰 - 笔趣阁汇总书源(2021.7.19)
-https://gh.nxnow.online/https://raw.githubusercontent.com/NZESupB/ReadSource/master/%E7%AC%94%E8%B6%A3%E9%98%81%E6%B1%87%E6%80%BB.json
+4.破冰大佬的书源合集：（1000+优质书源合集）(2021.9)
 
-3.破冰大佬的听书源合集：（前几天更新过的可不更新）
+https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json
+
+5.破冰大佬的听书源合集：（2021.9）
 
 https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/yshj.json
 
-4.haxc大佬的漫画源合集：（5月底更新，如果上个月更新了，可不用更新）
+6.haxc大佬的漫画源合集：（2021.9）
 
 https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/Book3.0Source.json
 
-5.乃星大佬的女频书源合集：（5月底更新，如果上个月更新了，可不用更新）
+7.糖果超甜大佬的女频书源合集：(2021.9)
 
-http://shuyuan.miaogongzi.net/shuyuan/1623355431.json
+https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
 
-6.关耳大佬的女频书源合集：（5月中更新，如果更新了，可不用更新）
+8.关耳大佬的女频书源合集：(2021.9)
 
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
-7.天域战歌大佬的2.0书源合集：（5月底更新，如果上个月更新了，可不用更新）
+9.天域战歌大佬的2.0书源合集：（2021.5）
 
 https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/2.0shuyuan.json
 
