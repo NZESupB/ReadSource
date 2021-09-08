@@ -12,8 +12,8 @@
 > 订阅源(非书源)
 > http://yck.mumuceo.com/d/CXwCA   
 > 
-> @Thomas喲大佬的精选订阅源
-> http://shuyuan.miaogongzi.net/shuyuan/1619456819.json
+> @Thomas喲大佬的精选订阅源(2021.9)
+> https://shuyuan.miaogongzi.net/shuyuan/1630386097.json
 >
 >一程订阅源合集(2021.8)
 > http://shuyuan.miaogongzi.net/shuyuan/1627682222.json
