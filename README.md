@@ -7,8 +7,6 @@
 > 官方下载链接
 > https://mp.weixin.qq.com/s/yIoPOAPXmUT7PSXjDrZoIw
 
-
-
 > 订阅源(非书源)
 > http://yck.mumuceo.com/d/CXwCA   
 > 
@@ -24,6 +22,10 @@
 > 订阅源使用方式(可自行修改/添加订阅)
 > https://mp.weixin.qq.com/s/3Sb1e5weIs2N802yW84Hbg
 
+> 不世玄奇大佬的搜索引擎书源
+> http://no-mystery.gitee.io/shuyuan/%E5%85%A8%E7%BD%91%E9%80%9A%E7%94%A8.json
+> 二选一即可：
+> https://shuyuan.miaogongzi.site/shuyuan/d01f9947f5ba41f18ca6985f025aee1f.json
 
 
 ## 书源合集:
