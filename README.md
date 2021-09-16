@@ -6,18 +6,12 @@
 
 > 官方下载链接
 > https://mp.weixin.qq.com/s/yIoPOAPXmUT7PSXjDrZoIw
-
-> 订阅源(非书源)
-> http://yck.mumuceo.com/d/CXwCA   
 > 
 > @Thomas喲大佬的精选订阅源(2021.9)
 > https://shuyuan.miaogongzi.net/shuyuan/1630386097.json
 >
 >一程订阅源合集(2021.8)
 > http://shuyuan.miaogongzi.net/shuyuan/1627682222.json
-> 
-> R18版(慎用)
-> http://shuyuan.miaogongzi.net/shuyuan/1618363759.json
 > 
 > 订阅源使用方式(可自行修改/添加订阅)
 > https://mp.weixin.qq.com/s/3Sb1e5weIs2N802yW84Hbg
@@ -26,7 +20,8 @@
 > http://no-mystery.gitee.io/shuyuan/%E5%85%A8%E7%BD%91%E9%80%9A%E7%94%A8.json
 > 二选一即可：
 > https://shuyuan.miaogongzi.site/shuyuan/d01f9947f5ba41f18ca6985f025aee1f.json
-
+> 替换净化(2021.9.15)
+> https://shuyuan.miaogongzi.net/shuyuan/1631713578.json
 
 ## 书源合集:
 
@@ -94,7 +89,3 @@ http://shuyuan.miaogongzi.net/shuyuan/1624832786.json
 ​	
 ​	http://mp.weixin.qq.com/s?__biz=MzIzMTc0NzE1MQ==&mid=2247488724&idx=1&sn=9b3deb2cf3386bf38f36267b9354e610&chksm=e89e2ff4dfe9a6e2cad24afcf56139286901ce063e542e799adc76dcbed19ebf5489142a17b4&scene=21#wechat_redirect
 
-## 净化规则
-
-https://gitee.com/ch4nge/readbook/raw/master/JHGZ
-https://github.nxnow.xyz/https://raw.githubusercontent.com/NZESupB/ReadSource/master/clearLite.txt
