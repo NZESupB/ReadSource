@@ -25,13 +25,13 @@
 
 ## 书源合集:
 
-1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2021.9.1)
+1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2021.10.1)
 
 https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 
-2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2021.9.1)
+2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2021.10.1)
 
-https://shuyuan.miaogongzi.net/shuyuan/1630342495.json
+https://shuyuan.miaogongzi.net/shuyuan/1633024206.json
 
 3.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
 
@@ -39,41 +39,25 @@ https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%
 
 （使用教程）http://mp.weixin.qq.com/s?__biz=MzIzMTc0NzE1MQ==&mid=2247488514&idx=1&sn=9f2b745385e4824576a12f7d14079c26&chksm=e89e2f22dfe9a634a2588605ebfca7cbe847d5d4d1e70d8ba6970605c96af7a64f28c72fbf3c&scene=21#wechat_redirect
 
-4.破冰大佬的书源合集：（1000+优质书源合集）(2021.9)
+4.破冰大佬的书源合集：（1000+优质书源合集）(2021.10.1)
 
-https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json
+https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/3syhj.json
 
-5.破冰大佬的听书源合集：（2021.9）
+5.破冰大佬的听书源合集：（2021.10.1）
 
-https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/yshj.json
+https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/3yshj.json
 
-6.haxc大佬的漫画源合集：（2021.9）
+6.haxc大佬的漫画源合集：（2021.10.1）
 
-https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/Book3.0Source.json
+https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
 
-7.糖果超甜大佬的女频书源合集：(2021.9)
+7.糖果超甜大佬的女频书源合集：(2021.10.1)
 
 https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
 
-8.关耳大佬的女频书源合集：(2021.9)
+8.关耳大佬的女频书源合集：(2021.10.1)
 
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
-
-9.天域战歌大佬的2.0书源合集：（2021.5）
-
-https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/2.0shuyuan.json
-
-
-1.破冰大佬的700个收藏书源合集：（通用，但书源相对较多，选择比较多）
-
-https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json
-
-2.千仞云大佬的书源合集：（使用说明见下图）
-
-http://shuyuan.miaogongzi.net/shuyuan/1624832786.json
-
-![image](https://user-images.githubusercontent.com/26704509/124208211-ab53e700-db19-11eb-8d86-4a808883e22e.png)
-
 
 
 #### 	微软晓晓引擎:使用方法:(被微软大刀部砍了.ywwy)
