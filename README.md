@@ -16,7 +16,7 @@
 > 订阅源使用方式(可自行修改/添加订阅)
 > https://mp.weixin.qq.com/s/3Sb1e5weIs2N802yW84Hbg
 
-> 不世玄奇大佬的搜索引擎书源
+> 不世玄奇大佬的搜索引擎书源 使用方法 - https://mp.weixin.qq.com/s/6Ki8OmRsqPjOFvnGfKVS1Q
 > http://no-mystery.gitee.io/shuyuan/%E5%85%A8%E7%BD%91%E9%80%9A%E7%94%A8.json
 > 
 > 二选一即可：
