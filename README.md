@@ -28,13 +28,13 @@
 
 ## 书源合集:
 
-1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2021.11.1) 推荐加入订阅源,一般不会更改链接
+1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2021.12.1) 推荐加入订阅源,一般不会更改链接
 
 https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 
-2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2021.11.1) 可加入订阅源,更新可能修改链接
+2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2021.12.1) 可加入订阅源,更新会修改链接
 
-https://shuyuan.miaogongzi.net/shuyuan/1635716268.json
+https://shuyuan.miaogongzi.net/shuyuan/1638367786.json
 
 3.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
 
@@ -42,23 +42,19 @@ https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%
 
 （使用教程）http://mp.weixin.qq.com/s?__biz=MzIzMTc0NzE1MQ==&mid=2247488514&idx=1&sn=9f2b745385e4824576a12f7d14079c26&chksm=e89e2f22dfe9a634a2588605ebfca7cbe847d5d4d1e70d8ba6970605c96af7a64f28c72fbf3c&scene=21#wechat_redirect
 
-4.破冰大佬的书源合集：（1000+需复制到浏览器下载后本地导入）(2021.11.1)
+4.破冰大佬书源/听书源：（1000+需复制到浏览器下载后本地导入）
 
 https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
 
-5.破冰大佬的听书源合集：(1000+需复制到浏览器下载后本地导入)（2021.11.1）
-
-https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
-
-6.haxc大佬的漫画源合集：（2021.11.1） 如有需要推荐加入订阅源,一般不会更改链接
+5.haxc大佬的漫画源合集：（2021.12.1） 如有需要推荐加入订阅源,一般不会更改链接
 
 https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
 
-7.糖果超甜大佬的女频书源合集：(2021.11.1)  如有需要推荐加入订阅源,一般不会更改链接
+6.糖果超甜大佬的女频书源合集：(2021.12.1)  如有需要推荐加入订阅源,一般不会更改链接
 
 https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
 
-8.关耳大佬的女频书源合集：(2021.11.1)   如有需要推荐加入订阅源,一般不会更改链接
+7.关耳大佬的女频书源合集：(2021.12.1)   如有需要推荐加入订阅源,一般不会更改链接
 
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
