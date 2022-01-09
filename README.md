@@ -10,7 +10,7 @@
 > @Thomas喲大佬的精选订阅源(2021.9)
 > https://shuyuan.miaogongzi.net/shuyuan/1630386097.json
 >
-> 一程订阅源合集(2021.12)
+> 一程订阅源合集(2022.1)
 > https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json
 > 
 > 订阅源使用方式(可自行修改/添加订阅)
@@ -32,9 +32,9 @@
 
 https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 
-2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2021.12.1) 可加入订阅源,更新会修改链接
+2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2022.1.1) 可加入订阅源,更新会修改链接
 
-https://shuyuan.miaogongzi.net/shuyuan/1638367786.json
+https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
 
 3.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
 
@@ -46,15 +46,15 @@ https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%
 
 https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
 
-5.haxc大佬的漫画源合集：（2021.12.1） 如有需要推荐加入订阅源,一般不会更改链接
+5.haxc大佬的漫画源合集：（2022.1.1） 如有需要推荐加入订阅源,一般不会更改链接
 
 https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
 
-6.糖果超甜大佬的女频书源合集：(2021.12.1)  如有需要推荐加入订阅源,一般不会更改链接
+6.糖果超甜大佬的女频书源合集：(2022.1.1)  如有需要推荐加入订阅源,一般不会更改链接
 
 https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
 
-7.关耳大佬的女频书源合集：(2021.12.1)   如有需要推荐加入订阅源,一般不会更改链接
+7.关耳大佬的女频书源合集：(2022.1.1)   如有需要推荐加入订阅源,一般不会更改链接
 
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
