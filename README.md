@@ -10,7 +10,7 @@
 > @Thomas喲大佬的精选订阅源(2021.9)
 > https://shuyuan.miaogongzi.net/shuyuan/1630386097.json
 >
-> 一程订阅源合集(2022.1)
+> 一程订阅源合集(2022.2)
 > https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json
 > 
 > 订阅源使用方式(可自行修改/添加订阅)
