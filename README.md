@@ -7,6 +7,8 @@
 > 官方下载链接
 > https://mp.weixin.qq.com/s/yIoPOAPXmUT7PSXjDrZoIw
 > 
+> 规则订阅中导入,可分别导入 订阅源,书源,替换净化源
+> 
 > @Thomas喲大佬的精选订阅源(2021.9)
 > https://shuyuan.miaogongzi.net/shuyuan/1630386097.json
 >
@@ -18,13 +20,10 @@
 
 > 不世玄奇大佬的搜索引擎书源 使用方法 - https://mp.weixin.qq.com/s/6Ki8OmRsqPjOFvnGfKVS1Q
 > 
-> http://no-mystery.gitee.io/shuyuan/%E5%85%A8%E7%BD%91%E9%80%9A%E7%94%A8.json
-> 
-> 二选一即可：
-> https://shuyuan.miaogongzi.site/shuyuan/d01f9947f5ba41f18ca6985f025aee1f.json
-> 
-> 替换净化(2021.9.15)
-> https://shuyuan.miaogongzi.net/shuyuan/1631713578.json
+> 替换净化源(2022.2.8)
+> https://shuyuan.miaogongzi.net/shuyuan/1644339210.txt
+> 网盘导入版(与上链接一样)
+> https://wwi.lanzoui.com/b0bw8jwoh
 
 ## 书源合集:
 
@@ -39,8 +38,6 @@ https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
 3.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
 
 https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json
-
-（使用教程）http://mp.weixin.qq.com/s?__biz=MzIzMTc0NzE1MQ==&mid=2247488514&idx=1&sn=9f2b745385e4824576a12f7d14079c26&chksm=e89e2f22dfe9a634a2588605ebfca7cbe847d5d4d1e70d8ba6970605c96af7a64f28c72fbf3c&scene=21#wechat_redirect
 
 4.破冰大佬书源/听书源：（1000+需复制到浏览器下载后本地导入）
 
