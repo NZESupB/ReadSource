@@ -55,6 +55,9 @@ https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master
 
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
+8.酷安筛选书源
+https://gitee.com/jia_to_hui/read-30-preferred-book-source/raw/master/bookSource.json
+
 
 #### 	微软晓晓引擎:使用方法:(被微软大刀部砍了.ywwy)
 
