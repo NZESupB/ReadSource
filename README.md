@@ -7,12 +7,18 @@
 > 官方下载链接
 > https://mp.weixin.qq.com/s/yIoPOAPXmUT7PSXjDrZoIw
 > 
+> 官方书源
+> https://www.legado.top/blog/book-source
+> 
+> 官网
+> https://www.legado.top
+> 
 > 规则订阅中导入,可分别导入 订阅源,书源,替换净化源
 > 
 > @Thomas喲大佬的精选订阅源(2021.9)
 > https://shuyuan.miaogongzi.net/shuyuan/1630386097.json
 >
-> 一程订阅源合集(2022.2)
+> 一程订阅源合集(2022.5)
 > https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json
 > 
 > 订阅源使用方式(可自行修改/添加订阅)
@@ -27,11 +33,11 @@
 
 ## 书源合集: Tips:选择1-2位大佬的一直追更就行，没必要全部导入。
 
-1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2022.4.1) 推荐加入订阅源,一般不会更改链接
+1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2022.5.1) 推荐加入订阅源,一般不会更改链接
 
 https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 
-2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2022.4.1) 可加入订阅源,更新一般不会修改链接
+2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2022.5.1) 可加入订阅源,更新一般不会修改链接
 
 https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
 
@@ -43,7 +49,7 @@ https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%
 
 https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
 
-5.haxc大佬的漫画源合集：（2022.4.1） 如有需要推荐加入订阅源,一般不会更改链接
+5.haxc大佬的漫画源合集：（2022.5.1） 如有需要推荐加入订阅源,一般不会更改链接
 
 https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
 
@@ -51,7 +57,7 @@ https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
 
 https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
 
-7.关耳大佬的女频书源合集：(2022.4.1)   如有需要推荐加入订阅源,一般不会更改链接
+7.关耳大佬的女频书源合集：(2022.5.1)   如有需要推荐加入订阅源,一般不会更改链接
 
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
