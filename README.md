@@ -13,6 +13,10 @@
 > 官网
 > https://www.legado.top
 > 
+> 喵公子订阅
+> https://yd.mgz6.cc
+> [一键导入喵公子订阅源至阅读APP](yuedu://rsssource/importonline?src=http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json)
+>  
 > 规则订阅中导入,可分别导入 订阅源,书源,替换净化源
 > 
 > @Thomas喲大佬的精选订阅源(2021.9)
