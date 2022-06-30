@@ -3,15 +3,20 @@
 # 初始使用
 
 ## **阅读相关**
-
-> 官方下载链接
-> https://mp.weixin.qq.com/s/yIoPOAPXmUT7PSXjDrZoIw
+ 
+> 官网
+> https://www.legado.top
 > 
 > 官方书源
 > https://www.legado.top/blog/book-source
 > 
-> 官网
-> https://www.legado.top
+> 官方论坛
+> http://legado.cc
+>
+> 源仓库:
+> http://www.yckceo.com
+> 
+> http://YckCeo.Vip
 > 
 > 喵公子订阅
 > https://yd.mgz6.cc  点击喵公子书源订阅 -> 喵公子订阅源 导入阅读APP,在规则订阅处即可方便添加书源等
@@ -64,12 +69,10 @@ https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master
 
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
-8.酷安筛选书源 (2022.2.1)
-https://gitee.com/jia_to_hui/read-30-preferred-book-source/raw/master/bookSource.json
 
 
 
-#### 	微软晓晓引擎:使用方法:(被微软大刀部砍了.ywwy)
+#### 	微软晓晓引擎:使用方法:(被微软大刀部砍了)
 
 ​	https://mp.weixin.qq.com/s/5qR69rIup8GGQ7yvVcoh0A
 
