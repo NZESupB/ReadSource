@@ -23,10 +23,7 @@
 > 
 > 规则订阅中导入,可分别导入 订阅源,书源,替换净化源
 > 
-> @Thomas喲大佬的精选订阅源(2021.9)
-> https://shuyuan.miaogongzi.net/shuyuan/1630386097.json
->
-> 一程订阅源合集(2022.5)
+> 一程订阅源合集(2022.7)
 > https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json
 > 
 > 订阅源使用方式(可自行修改/添加订阅)
@@ -41,11 +38,11 @@
 
 ## 书源合集: Tips:选择1-2位大佬的一直追更就行，没必要全部导入。
 
-1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2022.5.1) 推荐加入订阅源,一般不会更改链接
+1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2022.7.1) 推荐加入订阅源,一般不会更改链接
 
-https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
+https://namofree.coding.net/p/yuedu/d/legado/git/raw/master/legadoNamo.json
 
-2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2022.5.1) 可加入订阅源,更新一般不会修改链接
+2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2022.7.1) 可加入订阅源,更新一般不会修改链接
 
 https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
 
