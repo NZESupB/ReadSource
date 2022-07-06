@@ -12,6 +12,12 @@
 > 
 > 官方论坛
 > http://legado.cc
+> 
+> 官方公众号
+> 开源阅读
+> 
+> Telegram
+> https://t.me/Legado_Channels (群组为频道关联群)
 >
 > 源仓库:
 > http://www.yckceo.com
