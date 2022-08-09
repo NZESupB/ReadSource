@@ -8,13 +8,16 @@
 > https://www.legado.top
 > 
 > 官方书源
-> https://www.legado.top/blog/book-source
+> https://legado.pages.dev / http://legado.git.llc
 > 
 > 官方论坛
 > http://legado.cc
 > 
 > 官方公众号
 > 开源阅读
+> 
+> 公众号汇总
+> https://mp.weixin.qq.com/s/5t8nfSnRfHjJNAvT76fA_A
 > 
 > Telegram
 > https://t.me/Legado_Channels (群组为频道关联群)
@@ -29,8 +32,11 @@
 > 
 > 规则订阅中导入,可分别导入 订阅源,书源,替换净化源
 > 
-> 一程订阅源合集(2022.7)
-> https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json
+> 一程订阅源合集(2022.8)
+> https://legado.git.llc/08-dy-yc.json
+> 
+> 风停在了窗边订阅源(2022.8)
+> https://legado.git.llc/08-dy-ftzlcb.txt
 > 
 > 订阅源使用方式(可自行修改/添加订阅)
 > https://mp.weixin.qq.com/s/3Sb1e5weIs2N802yW84Hbg
@@ -47,13 +53,13 @@
 
 ## 书源合集: Tips:选择1-2位大佬的一直追更就行，没必要全部导入。
 
-1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2022.7.1) 推荐加入订阅源,一般不会更改链接
+1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2022.8.1) 推荐加入订阅源,一般不会更改链接
 
-https://namofree.coding.net/p/yuedu/d/legado/git/raw/master/legadoNamo.json
+https://legado.git.llc/08-sy-namofree.txt
 
-2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2022.7.1) 可加入订阅源,更新一般不会修改链接
+2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2022.8.1) 可加入订阅源,更新一般不会修改链接
 
-https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
+https://legado.git.llc/08-sy-yc.json
 
 3.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
 
@@ -63,19 +69,9 @@ https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%
 
 https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
 
-5.haxc大佬的漫画源合集：（2022.7) 如有需要推荐加入订阅源,一般不会更改链接
+5.haxc大佬的漫画源合集：（2022.8) 如有需要推荐加入订阅源,一般不会更改链接
 
-https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
-
-6.糖果超甜大佬的女频书源合集：(2022.4.1)  如有需要推荐加入订阅源,一般不会更改链接
-
-https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
-
-7.关耳大佬的女频书源合集：(2022.5.1)   如有需要推荐加入订阅源,一般不会更改链接
-
-https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
-
-
+https://legado.git.llc/mhy-haxc.txt
 
 
 #### 	微软晓晓引擎:使用方法:(被微软大刀部砍了)
