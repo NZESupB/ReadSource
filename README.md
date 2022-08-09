@@ -73,6 +73,10 @@ https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
 
 https://legado.git.llc/mhy-haxc.txt
 
+6.破冰修罗：（2022.8) 
+
+https://raw.nxnow.top/PB-pobing/pobing/main/50.json
+
 
 #### 	微软晓晓引擎:使用方法:(被微软大刀部砍了)
 
