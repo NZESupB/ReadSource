@@ -27,21 +27,12 @@
 > 
 > http://YckCeo.Vip
 > 
+> 主要书源及订阅源 打开此网页后导入
+> https://legado.git.llc
+>
 > 喵公子订阅
 > https://yd.mgz6.cc  点击喵公子书源订阅 -> 喵公子订阅源 导入阅读APP,在规则订阅处即可方便添加书源等
 > 
-> 规则订阅中导入,可分别导入 订阅源,书源,替换净化源
-> 
-> 一程订阅源合集(2022.8)
-> https://legado.git.llc/08-dy-yc.json
-> 
-> 风停在了窗边订阅源(2022.8)
-> https://legado.git.llc/08-dy-ftzlcb.txt
-> 
-> 订阅源使用方式(可自行修改/添加订阅)
-> https://mp.weixin.qq.com/s/3Sb1e5weIs2N802yW84Hbg
-
-> 不世玄奇大佬的搜索引擎书源 使用方法 - https://mp.weixin.qq.com/s/6Ki8OmRsqPjOFvnGfKVS1Q
 > 
 > 替换净化源(2022.2.8)
 > https://shuyuan.miaogongzi.net/shuyuan/1644339210.txt
@@ -50,41 +41,6 @@
 
 > 乌云大佬替换净化规则(2022.7)
 > https://xs11.lanzoul.com/iSiwZ07f96jc
-
-## 书源合集: Tips:选择1-2位大佬的一直追更就行，没必要全部导入。
-
-1.namofree大佬的书源：（通用，精简，比较适合大多数人）(2022.8.1) 推荐加入订阅源,一般不会更改链接
-
-https://legado.git.llc/08-sy-namofree.txt
-
-2.一程大佬的书源合集：（通用，精简，比较适合大多数人）(2022.8.1) 可加入订阅源,更新一般不会修改链接
-
-https://legado.git.llc/08-sy-yc.json
-
-3.不世玄奇大佬的书源合集：（书源的高级用法，入门较难，但是学会了找小众的书很有用）
-
-https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json
-
-4.破冰大佬书源/听书源：（1000+需复制到浏览器下载后本地导入）网盘链接一般不会修改
-
-https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
-
-5.haxc大佬的漫画源合集：（2022.8) 如有需要推荐加入订阅源,一般不会更改链接
-
-https://legado.git.llc/mhy-haxc.txt
-
-6.破冰修罗：（2022.8) 
-
-https://raw.nxnow.top/PB-pobing/pobing/main/50.json
-
-
-#### 	微软晓晓引擎:使用方法:(被微软大刀部砍了)
-
-​	https://mp.weixin.qq.com/s/5qR69rIup8GGQ7yvVcoh0A
-
-​	下载地址:
-​	https://xs11.lanzous.com/iWI5Wkam4bc
-
 
 #### 	TTS朗读引擎
 ​	http://shuyuan.miaogongzi.net/shuyuan/1620296316.txt
