@@ -33,6 +33,8 @@
 > 喵公子订阅
 > https://yd.mgz6.cc  点击喵公子书源订阅 -> 喵公子订阅源 导入阅读APP,在规则订阅处即可方便添加书源等
 > 
+> <font color=red size=6>**书源/订阅源/主题/净化汇总订阅站**</font>
+> https://legado.aoaostar.com
 > 
 > 替换净化源(2022.2.8)
 > https://shuyuan.miaogongzi.net/shuyuan/1644339210.txt
